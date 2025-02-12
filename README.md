@@ -18,4 +18,5 @@ Hey Kwetso Kgaladi here!<br>Super glad to see you here!  <br>Well I'm a passiona
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src="https://randommeme-five.vercel.app/" alt="Random Dev Meme" width="400"/>
+
